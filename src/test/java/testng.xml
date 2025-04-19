@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="TodoAppSuite">
+    <test name="TodoAppTests">
+        <classes>
+            <class name="stepdefs.TodoSteps"/>
+        </classes>
+    </test>
+</suite>
