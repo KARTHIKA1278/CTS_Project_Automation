@@ -2,6 +2,9 @@ This project contains automated UI tests for the TodoMVC React App using Java, S
 
 📂 GitHub Repository: github.com/KARTHIKA1278/CTS_Project_Automation
 
+
+Project Folder Structure:
+
 CTS_Project_Automation
 ├── src
 │   ├── main
